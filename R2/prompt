@@ -1,0 +1,13 @@
+Considerando o roteiro de estudo para alunos de Desenvolvimento para Dispositivos Móveis, gere o código fonte para o Roteiro 2:
+ Conceito de variável
+ Demonstração da criação de String
+ Demonstração de criação de tipo numérico
+ Demonstração da criação de um Array
+ Demonstração de criação de um List (mutável)
+ Demonstração da criação de um Pair
+
+
+Desafio Inicial
+ Criar uma lista com nomes de pessoas exibindo em um componente do tipo ListView: 
+ Inclusão de nomes na lista.
+ Remoção de nomes da lista. 
